@@ -9,11 +9,11 @@ type Question = {
   question: string;
   options: string[];
   answer: number;
+  explanation?: string;
 };
 
 const QUESTIONS = questionData as Question[];
 const LETTERS = ['A', 'B', 'C', 'D'];
-const REVEAL_MS = 650;
 
 function shuffle<T>(items: T[]): T[] {
   const out = [...items];
@@ -88,10 +88,11 @@ function renderHud() {
 
 function renderQuestion() {
   served += 1;
+  revealing = false;
   questionLabel.textContent = `Question ${served} · ${current.id}`;
   questionTier.textContent = current.difficulty;
   questionText.textContent = current.question;
-  feedback.textContent = '';
+  feedback.innerHTML = '';
   optionsEl.innerHTML = current.options
     .map(
       (option, index) => `
@@ -130,20 +131,24 @@ function celebrate(tier: Tier) {
 
 function answer(index: number) {
   if (revealing) return;
-  const correct = index === current.answer;
 
-  if (correct) {
+  if (index === current.answer) {
     celebrate(current.difficulty);
-    advance(true);
+    state = applyAnswer(state, true);
+    state.tier = state.nextTier;
+    current = draw(state.tier);
+    renderQuestion();
     return;
   }
 
+  state = applyAnswer(state, false);
+  renderHud();
   reveal(index);
-  window.setTimeout(() => advance(false), REVEAL_MS);
 }
 
 function reveal(pickedIndex: number) {
   revealing = true;
+
   optionsEl.querySelectorAll<HTMLButtonElement>('.nb-option').forEach((button) => {
     const index = Number(button.dataset.index);
     button.disabled = true;
@@ -151,12 +156,40 @@ function reveal(pickedIndex: number) {
     else if (index === pickedIndex) button.classList.add('is-wrong');
     else button.classList.add('is-muted');
   });
-  feedback.textContent = `Answer: ${LETTERS[current.answer]}`;
+
+  renderRationale(pickedIndex);
 }
 
-function advance(correct: boolean) {
+function renderRationale(pickedIndex: number) {
+  const answerText = current.options[current.answer];
+  const explanation = current.explanation?.trim();
+  const skipped = pickedIndex < 0;
+
+  feedback.innerHTML = `
+    <div class="nb bg-blush p-3">
+      <p class="text-[10px] font-black uppercase tracking-[0.16em] text-deep">
+        ${skipped ? 'Skipped' : 'Not quite'} · correct answer ${LETTERS[current.answer]}
+      </p>
+      <p class="mt-1 text-sm font-bold leading-snug">${escapeHtml(answerText)}</p>
+      ${explanation ? `<p class="mt-1.5 text-xs leading-relaxed text-ink/80">${escapeHtml(explanation)}</p>` : ''}
+      <button
+        id="next"
+        type="button"
+        class="nb mt-3 border-2 border-ink bg-hot px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.14em] text-white"
+      >
+        Continue · Enter ↵
+      </button>
+    </div>
+  `;
+
+  const nextButton = feedback.querySelector<HTMLButtonElement>('#next');
+  nextButton?.addEventListener('click', continueNext);
+  nextButton?.focus({ preventScroll: true });
+}
+
+function continueNext() {
+  if (!revealing) return;
   revealing = false;
-  state = applyAnswer(state, correct);
   state.tier = state.nextTier;
   current = draw(state.tier);
   renderQuestion();
@@ -164,13 +197,22 @@ function advance(correct: boolean) {
 
 function skip() {
   if (revealing) return;
+  state = applyAnswer(state, false);
+  renderHud();
   reveal(-1);
-  window.setTimeout(() => advance(false), REVEAL_MS);
 }
 
 skipButton.addEventListener('click', skip);
 
 document.addEventListener('keydown', (event) => {
+  if (event.key === 'Enter') {
+    if (revealing) {
+      event.preventDefault();
+      continueNext();
+    }
+    return;
+  }
+
   if (revealing) return;
   const key = Number(event.key);
   if (Number.isInteger(key) && key >= 1 && key <= 4) {

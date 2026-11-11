@@ -44,12 +44,14 @@ The HUD tells you where you are at a glance:
 | **Hard charge (2 dots)** | Each medium correct fills one. Filling both unleashes the hard question. |
 | **Correct** | How many questions you have answered correctly this session. |
 
+Every question carries a short `explanation` written from the review notes. Miss it and the card tells you which option was right and why, rather than just skipping past the mistake.
+
 ## Usage
 
 1. Open https://shubhamj010.github.io/ca-exam-prep/ — question one is already on screen. There is no start screen, menu or login.
 2. Read the question and pick one of the four options: click or tap it, or press `1`, `2`, `3`, `4` on a keyboard.
-3. A correct answer fires tier-appropriate confetti and loads the next question immediately. A wrong answer highlights the correct option in pink and rose for 650ms, then continues.
-4. Use **Skip question →** if you do not know it. Skipping counts exactly like a miss: it breaks your streak and adds a strike when you are in a medium question.
+3. A correct answer fires tier-appropriate confetti and loads the next question immediately. A wrong answer marks the option you picked, highlights the right one, and opens a **rationale panel** naming the correct answer with the reason it is right. Take as long as you like, then hit **Continue** or press `Enter`.
+4. Use **Skip question →** if you do not know it. Skipping counts exactly like a miss — same strike, same rationale panel — without revealing that you guessed.
 5. Watch the badge and dots to see what is coming — three filled easy dots mean a medium question is next, and the second filled hard-charge dot means the hard question is armed.
 6. Refresh the page to reshuffle every bucket and start over. Progress is intentionally not saved: there is no account, storage or backend.
 

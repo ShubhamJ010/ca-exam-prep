@@ -15,7 +15,7 @@ Stack: Bun + Vite (vanilla TypeScript) + Tailwind CSS v4 + js-confetti. No frame
 - Do **not** add routing, landing pages, menus, settings panels, login screens, or modals. The app loads straight into a question.
 - Do **not** add a backend, database, analytics, or network calls.
 - Do **not** change the progression math in `src/engine.ts` unless the user explicitly asks for a rules change. The rules below are the product.
-- Do **not** introduce multi-second transitions or animations that gate the next question. The only intentional delay is the 650ms answer reveal on a miss (`REVEAL_MS` in `src/main.ts`), and clicking still advances immediately after.
+- Do **not** introduce multi-second transitions or animations that gate the next question. The only intentional pause is the miss review: the correct option and its `explanation` are shown, and the next question loads only on **Continue** or `Enter`. A correct answer must always advance instantly.
 - Keep the app functional without JavaScript-driven routing and keep `base: './'` in `vite.config.ts` — Pages serves from a subpath.
 
 ## Architecture
@@ -23,13 +23,17 @@ Stack: Bun + Vite (vanilla TypeScript) + Tailwind CSS v4 + js-confetti. No frame
 | File | Responsibility |
 | --- | --- |
 | `src/engine.ts` | Pure reducer. `createState()`, `applyAnswer(state, correct)`. No DOM, no randomness, no time. Must stay testable in Node/Bun. |
-| `src/main.ts` | Shuffle bags, drawing, DOM rendering, keyboard input, confetti, the reveal timer. |
+| `src/main.ts` | Shuffle bags, drawing, DOM rendering, keyboard input, confetti, the miss review panel and its continue step. |
 | `src/questions.json` | The question bank. Flat array, schema below. |
 | `src/styles.css` | Tailwind entry, `@theme` design tokens, neo-brutalist component classes (`.nb`, `.nb-badge`, `.nb-option`, `.dot`, `.nb-skip`). |
 | `index.html` | Static HUD/card/footer markup with the element ids `tierBadge`, `dotsLabel`, `dots`, `hardDots`, `score`, `questionLabel`, `questionTier`, `questionText`, `options`, `feedback`, `skip`. |
 | `.github/workflows/deploy.yml` | Build on every push/PR, deploy `dist/` to Pages on `main`. |
 
 `main.ts` sets `state.tier = state.nextTier` after each answer, then draws from that tier's bag. Rendering is a full re-render of the card per question — there is no virtual DOM and no diffing.
+
+### Miss review
+
+A wrong answer or a skip applies the failure transition immediately (the HUD dots update), marks the picked option rose and the correct option pink, then renders the rationale panel into `#feedback`: the correct option text plus `explanation` from the question, and a **Continue** button. `revealing` blocks option input until the user continues with that button or `Enter`. Keep rationale copy factual to the source notes and always show the correct option even when `explanation` is absent.
 
 ### Progression rules (authoritative)
 
