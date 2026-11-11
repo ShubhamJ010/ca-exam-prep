@@ -1,0 +1,2160 @@
+[
+  {
+    "id": "e_001",
+    "difficulty": "easy",
+    "question": "Institutional corrections refers to reformation and rehabilitation of offenders that is:",
+    "options": [
+      "Provided in the community outside prison",
+      "Held inside correctional institutions or penal establishments",
+      "Granted only by the President",
+      "Supervised by the community pillar only"
+    ],
+    "answer": 1,
+    "explanation": "Institutional corrections focuses on custody, supervision and treatment within facilities such as prisons, penitentiaries and jails."
+  },
+  {
+    "id": "m_001",
+    "difficulty": "medium",
+    "question": "Which agency handles correctional facilities for sentences of not more than 3 years?",
+    "options": [
+      "BUCOR",
+      "DSWD",
+      "BJMP",
+      "BPP"
+    ],
+    "answer": 2,
+    "explanation": "BJMP handles jail sentences of not more than 3 years."
+  },
+  {
+    "id": "h_001",
+    "difficulty": "hard",
+    "question": "Which agency handles offenders sentenced to more than 3 years and 1 day?",
+    "options": [
+      "BJMP",
+      "BUCOR",
+      "DSWD",
+      "PPA"
+    ],
+    "answer": 1,
+    "explanation": "BUCOR (Bureau of Corrections) handles sentences of more than 3 years and 1 day."
+  },
+  {
+    "id": "e_002",
+    "difficulty": "easy",
+    "question": "DSWD handles which group under institutional corrections?",
+    "options": [
+      "Adult prisoners with life sentences",
+      "Juvenile offenders (Bahay Pag-asa)",
+      "Parolees",
+      "Probationers"
+    ],
+    "answer": 1,
+    "explanation": "DSWD handles Bahay Pag-asa and juvenile offenders."
+  },
+  {
+    "id": "e_003",
+    "difficulty": "easy",
+    "question": "Non-institutional corrections is also known as:",
+    "options": [
+      "Community-based corrections",
+      "Penal management",
+      "Penology",
+      "Correctional administration"
+    ],
+    "answer": 0,
+    "explanation": "Non-institutional corrections is community-based corrections, reforming offenders outside prison walls."
+  },
+  {
+    "id": "e_004",
+    "difficulty": "easy",
+    "question": "Which of the following is a non-institutional correction approach?",
+    "options": [
+      "Imprisonment in national penitentiary",
+      "Probation",
+      "Solitary confinement",
+      "Hard labor in prison"
+    ],
+    "answer": 1,
+    "explanation": "Probation is a community-based (non-institutional) approach."
+  },
+  {
+    "id": "e_005",
+    "difficulty": "easy",
+    "question": "The board that grants parole is the:",
+    "options": [
+      "PPA",
+      "BPP",
+      "Court",
+      "BJMP"
+    ],
+    "answer": 1,
+    "explanation": "BPP = Board of Pardons and Parole."
+  },
+  {
+    "id": "e_006",
+    "difficulty": "easy",
+    "question": "The agency that administers probation is the:",
+    "options": [
+      "BPP",
+      "PPA",
+      "BUCOR",
+      "BJMP"
+    ],
+    "answer": 1,
+    "explanation": "PPA = Parole and Probation Administration."
+  },
+  {
+    "id": "m_002",
+    "difficulty": "medium",
+    "question": "How many pillars/components does the Criminal Justice System have?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "CJS has 5 pillars: Enforcement, Prosecution, Court, Correction, Community."
+  },
+  {
+    "id": "e_007",
+    "difficulty": "easy",
+    "question": "In the CJS, which pillar is called the weakest?",
+    "options": [
+      "Enforcement",
+      "Prosecution",
+      "Correction",
+      "Community"
+    ],
+    "answer": 2,
+    "explanation": "Correction is called the weakest pillar."
+  },
+  {
+    "id": "e_008",
+    "difficulty": "easy",
+    "question": "Penology is the study of:",
+    "options": [
+      "Crime prevention",
+      "Punishment for crime or criminal offenders",
+      "Court procedures",
+      "Police operations"
+    ],
+    "answer": 1,
+    "explanation": "Penology is the study of punishment for crime or criminal offenders."
+  },
+  {
+    "id": "e_009",
+    "difficulty": "easy",
+    "question": "Under the positivist doctrine, criminals are considered:",
+    "options": [
+      "Free-willed individuals",
+      "Sick individuals",
+      "Vengeful persons",
+      "Innocent until proven guilty"
+    ],
+    "answer": 1,
+    "explanation": "Positivist theory treats criminals as sick individuals needing treatment."
+  },
+  {
+    "id": "e_010",
+    "difficulty": "easy",
+    "question": "Classical theory emphasizes:",
+    "options": [
+      "Treatment programs",
+      "Absolute human free will and retribution",
+      "Community service",
+      "Rehabilitation over punishment"
+    ],
+    "answer": 1,
+    "explanation": "Classical theory: absolute free will, pain-pleasure principle, retribution, punishment fits the crime."
+  },
+  {
+    "id": "e_011",
+    "difficulty": "easy",
+    "question": "Neo-classical theory exempts which groups?",
+    "options": [
+      "Adults and repeat offenders",
+      "Children and lunatics",
+      "Foreigners",
+      "Politicians"
+    ],
+    "answer": 1,
+    "explanation": "Neo-classical exempts children and lunatics; insane are exempted or mitigated."
+  },
+  {
+    "id": "e_012",
+    "difficulty": "easy",
+    "question": "The Principle of Just Desert is associated with:",
+    "options": [
+      "Deterrence",
+      "Retribution",
+      "Reformation",
+      "Incapacitation"
+    ],
+    "answer": 1,
+    "explanation": "Just Desert = retributive concept (you deserve it)."
+  },
+  {
+    "id": "e_013",
+    "difficulty": "easy",
+    "question": "RADID stands for the purposes of punishment: Retribution, Expiation, Deterrence, Incapacitation, and:",
+    "options": [
+      "Destruction",
+      "Reformation",
+      "Rehabilitation",
+      "Restitution"
+    ],
+    "answer": 1,
+    "explanation": "RADID: Retribution, Expiation/Atonement, Deterrence, Incapacitation, Reformation/Rehabilitation (Reformation)."
+  },
+  {
+    "id": "e_014",
+    "difficulty": "easy",
+    "question": "Specific deterrence focuses on:",
+    "options": [
+      "Society/community",
+      "The individual offender",
+      "The victim",
+      "The court"
+    ],
+    "answer": 1,
+    "explanation": "Specific deterrence focuses on an offender; general deterrence on society."
+  },
+  {
+    "id": "e_015",
+    "difficulty": "easy",
+    "question": "Incapacitation and protection rests on:",
+    "options": [
+      "Changing offender behavior",
+      "Removing offender from public to neutralize threat",
+      "Retribution",
+      "Community service"
+    ],
+    "answer": 1,
+    "explanation": "Incapacitation physically removes offender from public to protect society."
+  },
+  {
+    "id": "m_003",
+    "difficulty": "medium",
+    "question": "The Code of King Hammurabi is credited as the oldest code prescribing:",
+    "options": [
+      "Humane punishment",
+      "Savage punishment (eye for an eye)",
+      "Probation",
+      "Parole"
+    ],
+    "answer": 1,
+    "explanation": "Hammurabi code = oldest code prescribing savage punishment."
+  },
+  {
+    "id": "m_004",
+    "difficulty": "medium",
+    "question": "Securing Sanctuary allowed a fugitive refuge in a church for up to:",
+    "options": [
+      "7 days",
+      "30 days",
+      "40 days",
+      "60 days"
+    ],
+    "answer": 2,
+    "explanation": "Up to 40 days of protection under sanctuary."
+  },
+  {
+    "id": "e_016",
+    "difficulty": "easy",
+    "question": "Benefit of the clergy allowed clergy to be tried in:",
+    "options": [
+      "Secular court",
+      "Ecclesiastical (church) court",
+      "Military tribunal",
+      "International court"
+    ],
+    "answer": 1,
+    "explanation": "Ecclesiastical (church) court instead of King's court."
+  },
+  {
+    "id": "e_017",
+    "difficulty": "easy",
+    "question": "Galleys were ships used for:",
+    "options": [
+      "Transporting nobility",
+      "Penal servitude / hard labor (galley slavery)",
+      "Religious pilgrimages",
+      "Trade"
+    ],
+    "answer": 1,
+    "explanation": "Galleys = penal servitude, hard labor."
+  },
+  {
+    "id": "e_018",
+    "difficulty": "easy",
+    "question": "Hulks were:",
+    "options": [
+      "Modern prisons",
+      "Decommissioned ships used as makeshift prisons ('floating hell')",
+      "Rehabilitation centers",
+      "Courts"
+    ],
+    "answer": 1,
+    "explanation": "Hulks = floating hell, makeshift prisons from decommissioned ships."
+  },
+  {
+    "id": "m_005",
+    "difficulty": "medium",
+    "question": "The Age of Enlightenment (18th century) is associated with:",
+    "options": [
+      "Cesare Beccaria",
+      "Hammurabi",
+      "Plato",
+      "Aristotle"
+    ],
+    "answer": 0,
+    "explanation": "18th century enlightenment - Cesare Beccaria."
+  },
+  {
+    "id": "m_006",
+    "difficulty": "medium",
+    "question": "The Golden Age of Penology occurred in:",
+    "options": [
+      "1700-1710",
+      "1870-1880",
+      "1900-1910",
+      "1950-1960"
+    ],
+    "answer": 1,
+    "explanation": "1870-1880 Golden age of penology."
+  },
+  {
+    "id": "h_002",
+    "difficulty": "hard",
+    "question": "Isolation/solitary confinement duration for BJMP is:",
+    "options": [
+      "1 month to 2 months",
+      "1 to 7 days",
+      "22 hours to 15 days",
+      "6 months"
+    ],
+    "answer": 1,
+    "explanation": "BJMP solitary: 1-7 days; BUCOR: 1-2 months; UN: 22h-15 days."
+  },
+  {
+    "id": "h_003",
+    "difficulty": "hard",
+    "question": "Isolation/solitary confinement duration for BUCOR is:",
+    "options": [
+      "1 to 7 days",
+      "1 month to 2 months",
+      "22 hours to 15 days",
+      "3 years"
+    ],
+    "answer": 1,
+    "explanation": "BUCOR solitary: 1 month to 2 months."
+  },
+  {
+    "id": "m_007",
+    "difficulty": "medium",
+    "question": "RA 9346 (prohibiting death penalty) was approved on:",
+    "options": [
+      "June 24, 2005",
+      "June 24, 2006",
+      "July 4, 2006",
+      "December 25, 2006"
+    ],
+    "answer": 1,
+    "explanation": "RA 9346 approved June 24, 2006."
+  },
+  {
+    "id": "e_019",
+    "difficulty": "easy",
+    "question": "Death penalty execution authority in BUCOR rests with the:",
+    "options": [
+      "President",
+      "Director (BUCOR)",
+      "Warden",
+      "Court"
+    ],
+    "answer": 1,
+    "explanation": "Death penalty: Authority of Director (BUCOR)."
+  },
+  {
+    "id": "m_008",
+    "difficulty": "medium",
+    "question": "For a death convict, the holding cell period is:",
+    "options": [
+      "6 hours",
+      "12 hours",
+      "24 hours",
+      "48 hours"
+    ],
+    "answer": 1,
+    "explanation": "Holding cell - 12 hours."
+  },
+  {
+    "id": "m_009",
+    "difficulty": "medium",
+    "question": "Death watch for a death convict requires:",
+    "options": [
+      "2 guards",
+      "4 guards",
+      "6 guards",
+      "8 guards"
+    ],
+    "answer": 1,
+    "explanation": "Death Watch - 4 guards."
+  },
+  {
+    "id": "m_010",
+    "difficulty": "medium",
+    "question": "Visitation for death convict's immediate family (RA 7438) is:",
+    "options": [
+      "3 days",
+      "5 days",
+      "7 days",
+      "30 days"
+    ],
+    "answer": 2,
+    "explanation": "Visitation - 7 days for immediate family."
+  },
+  {
+    "id": "m_011",
+    "difficulty": "medium",
+    "question": "Mail/letters of a death convict must be sent how many days prior to execution date?",
+    "options": [
+      "7 days",
+      "14 days",
+      "30 days",
+      "60 days"
+    ],
+    "answer": 2,
+    "explanation": "Mail/Letters of death convict - 30 days prior executive date."
+  },
+  {
+    "id": "m_012",
+    "difficulty": "medium",
+    "question": "Death penalty is suspended for:",
+    "options": [
+      "Women with 1-year-old child and those over 70 years",
+      "First-time offenders",
+      "Foreigners",
+      "Minors only"
+    ],
+    "answer": 0,
+    "explanation": "Suspension: woman with 1 year old (pregnant/delivery) and over 70 years of age."
+  },
+  {
+    "id": "e_020",
+    "difficulty": "easy",
+    "question": "Execution of death penalty is:",
+    "options": [
+      "Open to public",
+      "Closed to public view",
+      "Broadcast on TV",
+      "Held in schools"
+    ],
+    "answer": 1,
+    "explanation": "Place of execution: closed to public view."
+  },
+  {
+    "id": "e_021",
+    "difficulty": "easy",
+    "question": "Parole is:",
+    "options": [
+      "Release instead of imprisonment",
+      "Conditional release after serving part of sentence",
+      "Full pardon",
+      "Community service only"
+    ],
+    "answer": 1,
+    "explanation": "Parole = conditional release before completion of full sentence."
+  },
+  {
+    "id": "m_013",
+    "difficulty": "medium",
+    "question": "Probation applies for sentences of:",
+    "options": [
+      "More than 6 years",
+      "Less than 6 years (not more than 6 years)",
+      "Life imprisonment",
+      "Death penalty"
+    ],
+    "answer": 1,
+    "explanation": "Probation: for less than 6 years not more than 6 years."
+  },
+  {
+    "id": "e_022",
+    "difficulty": "easy",
+    "question": "Probation happens:",
+    "options": [
+      "After imprisonment",
+      "Instead of imprisonment",
+      "During trial",
+      "After pardon"
+    ],
+    "answer": 1,
+    "explanation": "Probation happens instead of imprisonment."
+  },
+  {
+    "id": "e_023",
+    "difficulty": "easy",
+    "question": "Parole happens:",
+    "options": [
+      "Instead of imprisonment",
+      "After serving part of prison sentence",
+      "Before conviction",
+      "After pardon"
+    ],
+    "answer": 1,
+    "explanation": "Parole happens after serving part of sentence."
+  },
+  {
+    "id": "m_014",
+    "difficulty": "medium",
+    "question": "Destierro prohibits entry within:",
+    "options": [
+      "5 km and 50 km",
+      "25 km and 250 km",
+      "10 km and 100 km",
+      "50 km and 500 km"
+    ],
+    "answer": 1,
+    "explanation": "Destierro: cannot enter up to 25 km perimeter and 250 km."
+  },
+  {
+    "id": "e_024",
+    "difficulty": "easy",
+    "question": "Juridical conditions of penalty require punishments to be:",
+    "options": [
+      "Productive of suffering, commensurate, personal, legal, equal, certain, correctional",
+      "Secret and swift",
+      "Public and painful",
+      "Permanent and irreversible"
+    ],
+    "answer": 0,
+    "explanation": "Juridical conditions: productive of suffering, commensurate, personal, legal, equal, certain, correctional."
+  },
+  {
+    "id": "h_004",
+    "difficulty": "hard",
+    "question": "Reclusion Perpetua duration is:",
+    "options": [
+      "12 years 1 day to 20 years",
+      "20 years 1 day to 40 years",
+      "6 years 1 day to 12 years",
+      "6 months 1 day to 6 years"
+    ],
+    "answer": 1,
+    "explanation": "Reclusion Perpetua: 20-1-40 (20y1d-40y)."
+  },
+  {
+    "id": "h_005",
+    "difficulty": "hard",
+    "question": "Reclusion Temporal duration is:",
+    "options": [
+      "20 years 1 day to 40 years",
+      "12 years 1 day to 20 years",
+      "6 years 1 day to 12 years",
+      "1 day to 30 days"
+    ],
+    "answer": 1,
+    "explanation": "Reclusion Temporal: 12-1-20."
+  },
+  {
+    "id": "h_006",
+    "difficulty": "hard",
+    "question": "Prison Mayor duration is:",
+    "options": [
+      "6 months 1 day to 6 years",
+      "6 years 1 day to 12 years",
+      "12 years 1 day to 20 years",
+      "1 day to 30 days"
+    ],
+    "answer": 1,
+    "explanation": "Prison Mayor: 6-1-12."
+  },
+  {
+    "id": "h_007",
+    "difficulty": "hard",
+    "question": "Prison correccional duration is:",
+    "options": [
+      "6 months 1 day to 6 years",
+      "1 month 1 day to 6 months",
+      "1 day to 30 days",
+      "6 years 1 day to 12 years"
+    ],
+    "answer": 0,
+    "explanation": "Prison correccional: 6m-1d-6y."
+  },
+  {
+    "id": "h_008",
+    "difficulty": "hard",
+    "question": "Arresto Mayor duration is:",
+    "options": [
+      "1 month 1 day to 6 months",
+      "6 months 1 day to 6 years",
+      "1 day to 30 days",
+      "6 years 1 day to 12 years"
+    ],
+    "answer": 0,
+    "explanation": "Arresto Mayor: 1m-1d-6m."
+  },
+  {
+    "id": "h_009",
+    "difficulty": "hard",
+    "question": "Arresto Menor duration is:",
+    "options": [
+      "1 day to 30 days",
+      "1 month 1 day to 6 months",
+      "6 months 1 day to 6 years",
+      "12 years 1 day to 20 years"
+    ],
+    "answer": 0,
+    "explanation": "Arresto Menor: 1 day to 30 days."
+  },
+  {
+    "id": "e_025",
+    "difficulty": "easy",
+    "question": "The word 'prison' derives from the Greco-Roman word:",
+    "options": [
+      "Presedio",
+      "Jaula",
+      "Gaol",
+      "Penitentiary"
+    ],
+    "answer": 0,
+    "explanation": "Prison derived from Greco-Roman 'Presedio' (before + inside)."
+  },
+  {
+    "id": "e_026",
+    "difficulty": "easy",
+    "question": "Auburn prison system is also called:",
+    "options": [
+      "Solitary system",
+      "Congregate/group system",
+      "Silent system",
+      "Separate system"
+    ],
+    "answer": 1,
+    "explanation": "Auburn = congregate/group system; Pennsylvania = solitary/silent/separate system."
+  },
+  {
+    "id": "e_027",
+    "difficulty": "easy",
+    "question": "Pennsylvania prison system confined prisoners:",
+    "options": [
+      "In groups during day, cells at night",
+      "In single cells day and night",
+      "In open fields",
+      "In community"
+    ],
+    "answer": 1,
+    "explanation": "Pennsylvania = solitary system, single cells day and night."
+  },
+  {
+    "id": "e_028",
+    "difficulty": "easy",
+    "question": "The Spanish word for jail 'Jaula/Caula' means:",
+    "options": [
+      "Cage",
+      "Tower",
+      "Dungeon",
+      "Cell"
+    ],
+    "answer": 0,
+    "explanation": "Jaula/caula means cage."
+  },
+  {
+    "id": "e_029",
+    "difficulty": "easy",
+    "question": "Lock-up jails are common to:",
+    "options": [
+      "National penitentiaries",
+      "Police stations (temporary confinement)",
+      "Work farms",
+      "Penal colonies"
+    ],
+    "answer": 0,
+    "explanation": "Lock-up jail: common to police stations, temporary confinement."
+  },
+  {
+    "id": "e_030",
+    "difficulty": "easy",
+    "question": "Which department supervises national penitentiaries through BUCOR?",
+    "options": [
+      "DILG",
+      "DOJ",
+      "DSWD",
+      "DND"
+    ],
+    "answer": 1,
+    "explanation": "DOJ supervises national penitentiaries through BUCOR."
+  },
+  {
+    "id": "e_031",
+    "difficulty": "easy",
+    "question": "Which department supervises provincial/district/city/municipal jails through BJMP?",
+    "options": [
+      "DOJ",
+      "DILG",
+      "DSWD",
+      "DND"
+    ],
+    "answer": 1,
+    "explanation": "DILG supervises jails through BJMP."
+  },
+  {
+    "id": "e_032",
+    "difficulty": "easy",
+    "question": "DSWD supervises:",
+    "options": [
+      "National penitentiaries",
+      "Provincial jails",
+      "Regional rehabilitation centers for youth offenders",
+      "Parole"
+    ],
+    "answer": 2,
+    "explanation": "DSWD supervises regional rehabilitation centers for youth offenders."
+  },
+  {
+    "id": "m_015",
+    "difficulty": "medium",
+    "question": "BJMP was created by RA 6975 effective:",
+    "options": [
+      "January 2, 1990",
+      "January 2, 1991",
+      "January 2, 1992",
+      "January 2, 1993"
+    ],
+    "answer": 1,
+    "explanation": "BJMP created by RA 6975, took effect January 2, 1991."
+  },
+  {
+    "id": "h_010",
+    "difficulty": "hard",
+    "question": "RA 9263 is otherwise known as the:",
+    "options": [
+      "BFP and BJMP Act of 2004",
+      "BUCOR Act",
+      "Penal Code",
+      "Probation Law"
+    ],
+    "answer": 0,
+    "explanation": "RA 9263 = BFP and BJMP Act of 2004."
+  },
+  {
+    "id": "h_011",
+    "difficulty": "hard",
+    "question": "RA 9592 extended the reglementary period for BJMP/BFP personnel to satisfy:",
+    "options": [
+      "Minimum age",
+      "Minimum educational qualification (baccalaureate degree) and civil service eligibility",
+      "Physical fitness",
+      "Rank"
+    ],
+    "answer": 1,
+    "explanation": "RA 9592 extended period to satisfy minimum educational qualification and civil service eligibility."
+  },
+  {
+    "id": "e_033",
+    "difficulty": "easy",
+    "question": "Carpeta is:",
+    "options": [
+      "A jail weapon",
+      "An inmate record/jacket",
+      "A court order",
+      "A type of cell"
+    ],
+    "answer": 1,
+    "explanation": "Carpeta = inmate record/jacket."
+  },
+  {
+    "id": "e_034",
+    "difficulty": "easy",
+    "question": "Mitimus order is a formal warrant issued by a court directing:",
+    "options": [
+      "Release of an inmate",
+      "Transfer of convicted offender to jail/prison to serve sentence",
+      "Investigation",
+      "Parole grant"
+    ],
+    "answer": 1,
+    "explanation": "Mitimus order directs transfer to jail/prison to begin serving sentence."
+  },
+  {
+    "id": "e_035",
+    "difficulty": "easy",
+    "question": "Commitment order is for:",
+    "options": [
+      "Final conviction sentencing",
+      "Temporary custody/safekeeping during trial",
+      "Parole",
+      "Pardon"
+    ],
+    "answer": 1,
+    "explanation": "Commitment order = temporary custody during pendency of trial."
+  },
+  {
+    "id": "e_036",
+    "difficulty": "easy",
+    "question": "Illegal contraband includes:",
+    "options": [
+      "Drugs, weapons, explosives",
+      "Cellphone, money, letters",
+      "Extra food",
+      "Books and letters"
+    ],
+    "answer": 0,
+    "explanation": "Illegal contraband is prohibited by law (drugs, weapons, explosives); nuisance contraband is prohibited by jail rules (cellphone, money)."
+  },
+  {
+    "id": "e_037",
+    "difficulty": "easy",
+    "question": "A detainee is:",
+    "options": [
+      "Convicted by final judgment",
+      "Accused awaiting final judgment",
+      "Released on parole",
+      "Granted pardon"
+    ],
+    "answer": 1,
+    "explanation": "Detainee = accused before court, temporarily confined awaiting final judgment."
+  },
+  {
+    "id": "e_038",
+    "difficulty": "easy",
+    "question": "A prisoner is:",
+    "options": [
+      "Accused awaiting trial",
+      "Convicted by final judgment",
+      "On probation",
+      "On parole"
+    ],
+    "answer": 1,
+    "explanation": "Prisoner = convicted by final judgment."
+  },
+  {
+    "id": "m_016",
+    "difficulty": "medium",
+    "question": "National prisoner sentence range is:",
+    "options": [
+      "1 day to 6 months",
+      "6 months 1 day to 3 years",
+      "3 years 1 day to reclusion perpetua/life",
+      "1 day to 3 years"
+    ],
+    "answer": 2,
+    "explanation": "National prisoner: 3 years 1 day to reclusion perpetua/life imprisonment."
+  },
+  {
+    "id": "e_039",
+    "difficulty": "easy",
+    "question": "Provincial prisoner sentence range is:",
+    "options": [
+      "6 months 1 day to 3 years",
+      "1 day to 6 months",
+      "3 years 1 day to life",
+      "1 day to 3 years"
+    ],
+    "answer": 0,
+    "explanation": "Provincial prisoner: 6 months 1 day to 3 years."
+  },
+  {
+    "id": "m_017",
+    "difficulty": "medium",
+    "question": "City prisoner sentence range is:",
+    "options": [
+      "1 day to 6 months",
+      "1 day to 3 years",
+      "6 months 1 day to 3 years",
+      "3 years 1 day to life"
+    ],
+    "answer": 1,
+    "explanation": "City prisoner: 1 day to 3 years."
+  },
+  {
+    "id": "m_018",
+    "difficulty": "medium",
+    "question": "Municipal prisoner sentence range is:",
+    "options": [
+      "1 day to 6 months",
+      "1 day to 3 years",
+      "6 months 1 day to 3 years",
+      "3 years 1 day to life"
+    ],
+    "answer": 0,
+    "explanation": "Municipal prisoner: 1 day to 6 months."
+  },
+  {
+    "id": "m_019",
+    "difficulty": "medium",
+    "question": "Jail break vs jail escape: jail break means escapees are:",
+    "options": [
+      "Not more than 2",
+      "More than 2 (3 up)",
+      "Exactly 1",
+      "Any number"
+    ],
+    "answer": 1,
+    "explanation": "Jail break = 3+ escapees; jail escape = not more than 2."
+  },
+  {
+    "id": "e_040",
+    "difficulty": "easy",
+    "question": "Classification board (BJMP) chairperson is the:",
+    "options": [
+      "Warden",
+      "Assistant Warden",
+      "Chief Custodial/Security",
+      "Medical Officer"
+    ],
+    "answer": 1,
+    "explanation": "Classification board chairperson = Assistant Warden."
+  },
+  {
+    "id": "h_012",
+    "difficulty": "hard",
+    "question": "BJMP disciplinary board must decide cases within (new rule):",
+    "options": [
+      "24 hours",
+      "48 hours",
+      "72 hours",
+      "5 working days"
+    ],
+    "answer": 2,
+    "explanation": "BJMP: 48 hours (old), 72 hours (new). BUCOR: 5 working days."
+  },
+  {
+    "id": "m_020",
+    "difficulty": "medium",
+    "question": "BUCOR disciplinary board (Board of Discipline) decides within:",
+    "options": [
+      "24 hours",
+      "48 hours",
+      "72 hours",
+      "5 working days"
+    ],
+    "answer": 3,
+    "explanation": "BUCOR: within 5 working days."
+  },
+  {
+    "id": "h_013",
+    "difficulty": "hard",
+    "question": "For detainees, close confinement sanction is not exceeding:",
+    "options": [
+      "3 days",
+      "7 days",
+      "1 month",
+      "2 months"
+    ],
+    "answer": 1,
+    "explanation": "Detainees: close confinement not exceeding 7 days (incorrigible inmate)."
+  },
+  {
+    "id": "e_041",
+    "difficulty": "easy",
+    "question": "Minor offenses include:",
+    "options": [
+      "Assaulting BJMP personnel",
+      "Selling/bartering non-contraband items with fellow inmate",
+      "Fighting/riot",
+      "Forcible extortion"
+    ],
+    "answer": 1,
+    "explanation": "Selling/bartering non-contraband items = minor offense."
+  },
+  {
+    "id": "e_042",
+    "difficulty": "easy",
+    "question": "Less grave offenses include:",
+    "options": [
+      "Swearing/cursing",
+      "Assaulting personnel",
+      "Killing",
+      "Escape"
+    ],
+    "answer": 0,
+    "explanation": "Swearing, cursing, profane language = less grave offense."
+  },
+  {
+    "id": "e_043",
+    "difficulty": "easy",
+    "question": "Grave offenses include:",
+    "options": [
+      "Littering",
+      "Late reporting",
+      "Assaulting BJMP personnel",
+      "Untidy appearance"
+    ],
+    "answer": 2,
+    "explanation": "Assaulting BJMP personnel = grave offense."
+  },
+  {
+    "id": "e_044",
+    "difficulty": "easy",
+    "question": "Modes of release include:",
+    "options": [
+      "Service of sentence, court order, parole, pardon, amnesty",
+      "Probation only",
+      "Fine only",
+      "Destierro only"
+    ],
+    "answer": 0,
+    "explanation": "Release modes: service of sentence, court order, parole, pardon, amnesty."
+  },
+  {
+    "id": "m_021",
+    "difficulty": "medium",
+    "question": "Inmates count must be conducted at least how many times in 24 hours (BJMP)?",
+    "options": [
+      "2 times",
+      "3 times",
+      "5-6 times",
+      "10 times"
+    ],
+    "answer": 2,
+    "explanation": "BJMP: 5-6 times per 24 hours; BUCOR: 4 times."
+  },
+  {
+    "id": "m_022",
+    "difficulty": "medium",
+    "question": "BUCOR head count frequency is:",
+    "options": [
+      "2 times",
+      "4 times",
+      "5-6 times",
+      "8 times"
+    ],
+    "answer": 1,
+    "explanation": "BUCOR: 4 times per day."
+  },
+  {
+    "id": "h_014",
+    "difficulty": "hard",
+    "question": "Transport of high-risk/high-profile/VEO escort ratio is:",
+    "options": [
+      "1:1",
+      "1:1+1",
+      "1:3",
+      "2:1"
+    ],
+    "answer": 1,
+    "explanation": "Escort ratio 1:1+1 (1 HP + 1 escort + 1 supervisor)."
+  },
+  {
+    "id": "h_015",
+    "difficulty": "hard",
+    "question": "Courtroom escort ratio is:",
+    "options": [
+      "1:1",
+      "2:1",
+      "1:3",
+      "1:6"
+    ],
+    "answer": 1,
+    "explanation": "Court room: 2:1 (2 escorts to 1 PDL)."
+  },
+  {
+    "id": "h_016",
+    "difficulty": "hard",
+    "question": "Long distance travel escort ratio is:",
+    "options": [
+      "1:1",
+      "2:1",
+      "1:3",
+      "1:10"
+    ],
+    "answer": 2,
+    "explanation": "Long distance travel: 1:3 (1 PDL to 3 escorts)."
+  },
+  {
+    "id": "e_045",
+    "difficulty": "easy",
+    "question": "Pat/Frisk search is conducted by:",
+    "options": [
+      "Visual inspection only",
+      "Patting/squeezing clothing to detect contraband",
+      "Full disrobement",
+      "Body cavity inspection"
+    ],
+    "answer": 1,
+    "explanation": "Pat/Frisk = patting/squeezing clothing."
+  },
+  {
+    "id": "e_046",
+    "difficulty": "easy",
+    "question": "Strip search involves:",
+    "options": [
+      "Patting clothing",
+      "Visual inspection of disrobed/partially disrobed subject in private room",
+      "Body cavity inspection",
+      "Rubbing genital area"
+    ],
+    "answer": 1,
+    "explanation": "Strip search = visual inspection of disrobed subject in private room."
+  },
+  {
+    "id": "e_047",
+    "difficulty": "easy",
+    "question": "Operation Greyhound aims to:",
+    "options": [
+      "Transfer inmates",
+      "Eliminate contraband in BJMP facilities",
+      "Grant parole",
+      "Build jails"
+    ],
+    "answer": 1,
+    "explanation": "Greyhound = eliminate contraband in BJMP facilities."
+  },
+  {
+    "id": "e_048",
+    "difficulty": "easy",
+    "question": "Oplan Galugad is for:",
+    "options": [
+      "BJMP",
+      "BUCOR",
+      "PNP",
+      "DILG"
+    ],
+    "answer": 1,
+    "explanation": "Oplan Galugad = BUCOR (BUCOR's version)."
+  },
+  {
+    "id": "e_049",
+    "difficulty": "easy",
+    "question": "QRT (Quick Response Team) is created to:",
+    "options": [
+      "Grant pardons",
+      "Respond immediately to jail incidents/disturbances",
+      "Build facilities",
+      "Train staff only"
+    ],
+    "answer": 1,
+    "explanation": "QRT responds immediately to contain/control jail incidents."
+  },
+  {
+    "id": "e_050",
+    "difficulty": "easy",
+    "question": "STAR team is under:",
+    "options": [
+      "BJMP Regional",
+      "BJMP National Headquarters",
+      "BUCOR",
+      "DILG"
+    ],
+    "answer": 1,
+    "explanation": "STAR team under BJMP-HHQ (National Headquarters)."
+  },
+  {
+    "id": "h_017",
+    "difficulty": "hard",
+    "question": "Incident command level requiring 100% attendance is:",
+    "options": [
+      "Level A (Initial Response)",
+      "Level B (QRT activation)",
+      "Level D (STAR activation)",
+      "Red Alert"
+    ],
+    "answer": 3,
+    "explanation": "Red alert = 100% attendance; blue = 50%; white = peaceful/regular."
+  },
+  {
+    "id": "e_051",
+    "difficulty": "easy",
+    "question": "Use of force continuum's non-deadly force is:",
+    "options": [
+      "Mere presence and verbalization",
+      "Physical force with device other than firearm to temporarily incapacitate",
+      "Firearm use",
+      "Threatening with death"
+    ],
+    "answer": 1,
+    "explanation": "Non-deadly force = physical force with device other than firearm to temporarily incapacitate."
+  },
+  {
+    "id": "e_052",
+    "difficulty": "easy",
+    "question": "Deadly force includes:",
+    "options": [
+      "Verbal warnings",
+      "Physical restraint",
+      "Substantial risk of causing death or serious bodily harm (firearm)",
+      "Pat search"
+    ],
+    "answer": 2,
+    "explanation": "Deadly force = substantial risk of death/serious bodily harm such as firearm."
+  },
+  {
+    "id": "h_018",
+    "difficulty": "hard",
+    "question": "BJMP chief rank is:",
+    "options": [
+      "Undersecretary (4 star)",
+      "Director (2 star)",
+      "Chief Superintendent (1 star)",
+      "Assistant Secretary (3 star)"
+    ],
+    "answer": 1,
+    "explanation": "BJMP 1st in command: Chief, rank Director = 2 star."
+  },
+  {
+    "id": "e_053",
+    "difficulty": "easy",
+    "question": "BUCOR Director General rank is:",
+    "options": [
+      "Director (2 star)",
+      "Undersecretary (4 star)",
+      "Chief Superintendent (1 star)",
+      "Assistant Secretary (3 star)"
+    ],
+    "answer": 1,
+    "explanation": "BUCOR Director General: Undersecretary = 4 star."
+  },
+  {
+    "id": "m_023",
+    "difficulty": "medium",
+    "question": "San Ramon Prison and Penal Farm was established on:",
+    "options": [
+      "November 16, 1904",
+      "August 21, 1869",
+      "September 26, 1954",
+      "January 16, 1973"
+    ],
+    "answer": 1,
+    "explanation": "San Ramon established August 21, 1869 in Zamboanga City."
+  },
+  {
+    "id": "m_024",
+    "difficulty": "medium",
+    "question": "Iwahig Penal Colony was created on:",
+    "options": [
+      "August 21, 1869",
+      "November 16, 1904",
+      "September 26, 1954",
+      "January 16, 1973"
+    ],
+    "answer": 1,
+    "explanation": "Iwahig created November 16, 1904 in Puerto Princesa, Palawan."
+  },
+  {
+    "id": "e_054",
+    "difficulty": "easy",
+    "question": "Iwahig sub-colonies (CIMS) are:",
+    "options": [
+      "Central, Inagawan, Montible, Sta. Lucia",
+      "Central, Pusog, Pasugui, Yapang",
+      "Panabo, Kapalong",
+      "Max, Med, Min"
+    ],
+    "answer": 0,
+    "explanation": "Iwahig sub-colonies: Central, Inagawan, Montible, Sta. Lucia (CIMS)."
+  },
+  {
+    "id": "e_055",
+    "difficulty": "easy",
+    "question": "Iwahig is known as:",
+    "options": [
+      "Oldest prison",
+      "Prison without walls / best and finest prison",
+      "Richest prison",
+      "Youngest prison"
+    ],
+    "answer": 1,
+    "explanation": "Iwahig = prison without walls, best and finest prison, largest penal colony."
+  },
+  {
+    "id": "e_056",
+    "difficulty": "easy",
+    "question": "Correctional Institution for Women (CIW) is located in:",
+    "options": [
+      "Muntinlupa",
+      "Mandaluyong",
+      "Zamboanga",
+      "Davao"
+    ],
+    "answer": 1,
+    "explanation": "CIW: Mandaluyong City (also Mindanao, Palawan)."
+  },
+  {
+    "id": "h_019",
+    "difficulty": "hard",
+    "question": "New Bilibid Prison capacity is:",
+    "options": [
+      "1,000",
+      "2,000",
+      "3,000",
+      "5,000"
+    ],
+    "answer": 2,
+    "explanation": "New Bilibid Prison capacity 3,000 prisoners."
+  },
+  {
+    "id": "e_057",
+    "difficulty": "easy",
+    "question": "Davao Prison and Penal Farm is the:",
+    "options": [
+      "Oldest prison",
+      "Richest/highest income earner",
+      "Youngest prison",
+      "Largest penal colony"
+    ],
+    "answer": 1,
+    "explanation": "Davao = richest/highest income earner, biggest banana and abaca plantation."
+  },
+  {
+    "id": "e_058",
+    "difficulty": "easy",
+    "question": "Sablayan Prison and Penal Farm is located in:",
+    "options": [
+      "Occidental Mindoro",
+      "Palawan",
+      "Leyte",
+      "Davao"
+    ],
+    "answer": 0,
+    "explanation": "Sablayan located in Occidental Mindoro; nearest penal colony to Manila."
+  },
+  {
+    "id": "e_059",
+    "difficulty": "easy",
+    "question": "Leyte Regional Prison is the:",
+    "options": [
+      "Oldest prison",
+      "Richest prison",
+      "Youngest prison",
+      "Largest penal colony"
+    ],
+    "answer": 2,
+    "explanation": "Leyte Regional Prison = youngest prison."
+  },
+  {
+    "id": "e_060",
+    "difficulty": "easy",
+    "question": "Color of uniform for Maximum Security inmates (BUCOR) is:",
+    "options": [
+      "Yellow",
+      "Blue",
+      "Brown",
+      "Tangerine"
+    ],
+    "answer": 3,
+    "explanation": "Maximum = Tangerine, Medium = Blue, Minimum = Brown."
+  },
+  {
+    "id": "e_061",
+    "difficulty": "easy",
+    "question": "Color of uniform for Medium Security inmates (BUCOR) is:",
+    "options": [
+      "Tangerine",
+      "Blue",
+      "Brown",
+      "Yellow"
+    ],
+    "answer": 1,
+    "explanation": "Medium = Blue."
+  },
+  {
+    "id": "e_062",
+    "difficulty": "easy",
+    "question": "Color of uniform for Minimum Security inmates (BUCOR) is:",
+    "options": [
+      "Tangerine",
+      "Blue",
+      "Brown",
+      "Yellow"
+    ],
+    "answer": 2,
+    "explanation": "Minimum = Brown."
+  },
+  {
+    "id": "e_063",
+    "difficulty": "easy",
+    "question": "Color of uniform in city/municipal jail (BJMP) for prisoners and detainees is:",
+    "options": [
+      "Tangerine",
+      "Blue",
+      "Brown",
+      "Yellow"
+    ],
+    "answer": 3,
+    "explanation": "BJMP institutional color = Yellow."
+  },
+  {
+    "id": "m_025",
+    "difficulty": "medium",
+    "question": "A colonist is one who:",
+    "options": [
+      "Newly arrived inmate",
+      "Incorrigible committed 3+ times",
+      "Promoted from 1st class with good conduct",
+      "Detainee awaiting trial"
+    ],
+    "answer": 2,
+    "explanation": "Colonist = promoted from 1st class, served with good conduct 1/5 of max sentence or 7 years of life sentence."
+  },
+  {
+    "id": "m_026",
+    "difficulty": "medium",
+    "question": "Colonist privilege includes automatic commutation of life imprisonment to:",
+    "options": [
+      "20 years",
+      "25 years",
+      "30 years",
+      "40 years"
+    ],
+    "answer": 2,
+    "explanation": "Colonist: automatic commutation to 30 years of life imprisonment."
+  },
+  {
+    "id": "m_027",
+    "difficulty": "medium",
+    "question": "Colonist GCTA deduction is:",
+    "options": [
+      "3 days/month",
+      "5 days/month",
+      "15 days/month",
+      "20 days/month"
+    ],
+    "answer": 1,
+    "explanation": "Colonist: deduction of 5 days/month (GCTA)."
+  },
+  {
+    "id": "h_020",
+    "difficulty": "hard",
+    "question": "3rd class inmates are those committed:",
+    "options": [
+      "Once",
+      "Twice",
+      "Three or more times (incorrigibles)",
+      "Never convicted"
+    ],
+    "answer": 2,
+    "explanation": "3rd class = committed 3 or more times (incorrigibles)."
+  },
+  {
+    "id": "m_028",
+    "difficulty": "medium",
+    "question": "1st class inmates are:",
+    "options": [
+      "Newly arrived",
+      "Demoted from 1st",
+      "Known for character and credit for work",
+      "Incorrigibles"
+    ],
+    "answer": 2,
+    "explanation": "1st class = known for character and credit for work while in detention."
+  },
+  {
+    "id": "m_029",
+    "difficulty": "medium",
+    "question": "Outside movement of inmates (new rule) for viewing remains applies to:",
+    "options": [
+      "Maximum security PDL",
+      "Medium or Minimum security PDL",
+      "High-risk inmates",
+      "Death convicts"
+    ],
+    "answer": 1,
+    "explanation": "Viewing remains (new): only Medium or Minimum Security PDL."
+  },
+  {
+    "id": "e_064",
+    "difficulty": "easy",
+    "question": "Death convict outside movement is allowed only for:",
+    "options": [
+      "Court appearance",
+      "Viewing remains",
+      "Urgent treatment of life-threatening/serious ailment",
+      "Work detail"
+    ],
+    "answer": 2,
+    "explanation": "Death convict: not allowed to leave except for urgent treatment/diagnosis of life-threatening ailment."
+  },
+  {
+    "id": "h_021",
+    "difficulty": "hard",
+    "question": "Furlough (leave) application prior period: BJMP = 3 days; BUCOR =:",
+    "options": [
+      "1 day",
+      "2 days",
+      "3 days",
+      "5 days"
+    ],
+    "answer": 1,
+    "explanation": "Furlough applications: 3 days BJMP, 2 days BUCOR, 3 days high risk/high profile."
+  },
+  {
+    "id": "h_022",
+    "difficulty": "hard",
+    "question": "Duration of privilege to view deceased relative is about:",
+    "options": [
+      "1 hour",
+      "3 hours",
+      "6 hours",
+      "24 hours"
+    ],
+    "answer": 1,
+    "explanation": "More or less 3 hours to view deceased relative."
+  },
+  {
+    "id": "m_030",
+    "difficulty": "medium",
+    "question": "Viewing remains privilege distance radius is:",
+    "options": [
+      "10 km",
+      "25 km",
+      "30 km",
+      "50 km"
+    ],
+    "answer": 2,
+    "explanation": "Within 30 km radius by road; beyond 30 km must return during daylight."
+  },
+  {
+    "id": "e_065",
+    "difficulty": "easy",
+    "question": "Inmate rights include:",
+    "options": [
+      "Compensation for labor, good conduct time allowance, mail, religion, visitors, grievances, death benefits",
+      "Right to escape",
+      "Right to weapons",
+      "Right to alcohol"
+    ],
+    "answer": 0,
+    "explanation": "Rights of an inmate include compensation, time allowances, mail, religion, visitors, grievances, death benefits."
+  },
+  {
+    "id": "m_031",
+    "difficulty": "medium",
+    "question": "Prison labor: able-bodied PDL may be required to work:",
+    "options": [
+      "4 hours/day",
+      "6 hours/day",
+      "8 hours/day",
+      "12 hours/day"
+    ],
+    "answer": 2,
+    "explanation": "Able-bodied PDL: 8 hours a day work."
+  },
+  {
+    "id": "e_066",
+    "difficulty": "easy",
+    "question": "Female inmates must be supervised only by:",
+    "options": [
+      "Male officers",
+      "Women officers",
+      "Civilian staff",
+      "Volunteers"
+    ],
+    "answer": 1,
+    "explanation": "Female inmate supervised only by women officers."
+  },
+  {
+    "id": "m_032",
+    "difficulty": "medium",
+    "question": "Inmate over 60 years of age may be:",
+    "options": [
+      "Required to work more",
+      "Excused from mandatory labor",
+      "Transferred to max security",
+      "Denied visitors"
+    ],
+    "answer": 1,
+    "explanation": "Old inmate (over 60) may be excused from mandatory labor."
+  },
+  {
+    "id": "h_023",
+    "difficulty": "hard",
+    "question": "Medium/Minimum security inmates may work in agricultural field projects; ratio for Medium Security escort is:",
+    "options": [
+      "1:6",
+      "1:10",
+      "1:3",
+      "1:1"
+    ],
+    "answer": 0,
+    "explanation": "Medium Security escort ratio 1:6; Minimum 1:10."
+  },
+  {
+    "id": "m_033",
+    "difficulty": "medium",
+    "question": "Withdrawal of earnings: inmate may withdraw up to:",
+    "options": [
+      "1/4 of total earnings",
+      "1/2 of total earnings",
+      "3/4 of total earnings",
+      "All earnings"
+    ],
+    "answer": 1,
+    "explanation": "Up to 1/2 of total earnings may be withdrawn (50%)."
+  },
+  {
+    "id": "h_024",
+    "difficulty": "hard",
+    "question": "Telephone use (new): PDL who demonstrate good behavior earn one call every:",
+    "options": [
+      "90 days",
+      "60 days",
+      "30 days (month)",
+      "7 days"
+    ],
+    "answer": 2,
+    "explanation": "New: one telephone call every month (old: every 90 days)."
+  },
+  {
+    "id": "h_025",
+    "difficulty": "hard",
+    "question": "Telephone call duration is not exceeding:",
+    "options": [
+      "3 minutes",
+      "5 minutes",
+      "10 minutes",
+      "15 minutes"
+    ],
+    "answer": 1,
+    "explanation": "Duration not exceeding 5 minutes."
+  },
+  {
+    "id": "m_034",
+    "difficulty": "medium",
+    "question": "Online services communication (new) include:",
+    "options": [
+      "E-dalaw, E-hearing, E-burol",
+      "Email, SMS, video call",
+      "Social media",
+      "Banking"
+    ],
+    "answer": 0,
+    "explanation": "E-dalaw, E-hearing, E-burol and similar services."
+  },
+  {
+    "id": "m_035",
+    "difficulty": "medium",
+    "question": "Pregnant female inmate breastfeeding period: BJMP at least 6 months to max 12 months; BUCOR not more than:",
+    "options": [
+      "6 months",
+      "9 months",
+      "1 year",
+      "2 years"
+    ],
+    "answer": 2,
+    "explanation": "BUCOR: not more than 1 year."
+  },
+  {
+    "id": "h_026",
+    "difficulty": "hard",
+    "question": "Board of Discipline (new) chairperson is:",
+    "options": [
+      "Assistant Superintendent",
+      "Superintendent",
+      "Camp Commander",
+      "Warden"
+    ],
+    "answer": 2,
+    "explanation": "New Board of Discipline chairperson = Camp Commander (old: Assistant Superintendent)."
+  },
+  {
+    "id": "m_036",
+    "difficulty": "medium",
+    "question": "Release is prohibited within how many days before and after an election?",
+    "options": [
+      "30 days before / 15 days after",
+      "60 days before / 30 days after",
+      "90 days before / 60 after",
+      "15 days before / 7 after"
+    ],
+    "answer": 1,
+    "explanation": "No release 60 days before and 30 days after an election except valid/legal reasons."
+  },
+  {
+    "id": "h_027",
+    "difficulty": "hard",
+    "question": "Separation and Placement Center transfer occurs:",
+    "options": [
+      "60 days before release",
+      "30 days before release",
+      "7 days before release",
+      "1 day before release"
+    ],
+    "answer": 1,
+    "explanation": "30 days before scheduled release date."
+  },
+  {
+    "id": "h_028",
+    "difficulty": "hard",
+    "question": "White alert status refers to:",
+    "options": [
+      "Highest alert (100% attendance)",
+      "Higher alert (50% attendance)",
+      "Peaceful/regular situation",
+      "Disaster mode"
+    ],
+    "answer": 2,
+    "explanation": "White = peaceful/regular; Blue = 50% attendance; Red = 100% attendance."
+  },
+  {
+    "id": "h_029",
+    "difficulty": "hard",
+    "question": "Blue alert status requires at least:",
+    "options": [
+      "25% attendance",
+      "50% attendance",
+      "75% attendance",
+      "100% attendance"
+    ],
+    "answer": 1,
+    "explanation": "Blue alert = at least 50% attendance."
+  },
+  {
+    "id": "m_037",
+    "difficulty": "medium",
+    "question": "Red alert status requires:",
+    "options": [
+      "25% attendance",
+      "50% attendance",
+      "75% attendance",
+      "100% attendance"
+    ],
+    "answer": 3,
+    "explanation": "Red alert = 100% attendance."
+  },
+  {
+    "id": "m_038",
+    "difficulty": "medium",
+    "question": "During riots, 1st alarm means:",
+    "options": [
+      "Inmates lie flat",
+      "All inmates locked in cells",
+      "Third alarm sounded",
+      "Visitors enter"
+    ],
+    "answer": 1,
+    "explanation": "1st alarm: all inmates locked up in cells/quarters."
+  },
+  {
+    "id": "m_039",
+    "difficulty": "medium",
+    "question": "During riots, 3rd alarm is when:",
+    "options": [
+      "Condition normal",
+      "Inmates return to cells",
+      "Condition critical, disturbance full intensity",
+      "Visitors allowed"
+    ],
+    "answer": 2,
+    "explanation": "3rd alarm: condition critical, disturbance reached full intensity."
+  },
+  {
+    "id": "m_040",
+    "difficulty": "medium",
+    "question": "BJMP visitation (new) days are:",
+    "options": [
+      "Tuesday to Sunday (Monday washday)",
+      "Wednesday to Sunday",
+      "Saturday to Sunday only",
+      "Sunday to Thursday"
+    ],
+    "answer": 1,
+    "explanation": "BJMP new: Wednesday to Sunday (7am-3pm); old: Tuesday to Sunday (Monday washday)."
+  },
+  {
+    "id": "h_030",
+    "difficulty": "hard",
+    "question": "BUCOR visitation (new) is:",
+    "options": [
+      "Tuesday to Friday 1-5pm",
+      "Wednesday to Sunday 8am-3pm",
+      "Saturday-Sunday (visitor one sched)",
+      "Sunday to Thursday 9am-3pm"
+    ],
+    "answer": 0,
+    "explanation": "BUCOR new: Tuesday to Friday (1pm-5pm); old: Wed-Sun (8am-3pm)."
+  },
+  {
+    "id": "m_041",
+    "difficulty": "medium",
+    "question": "High-risk inmates max visitors is:",
+    "options": [
+      "1 visitor",
+      "2 visitors (30 mins-1 hour)",
+      "5 visitors",
+      "Unlimited"
+    ],
+    "answer": 1,
+    "explanation": "High-risk inmates: max 2 visitors, 30 mins to 1 hour."
+  },
+  {
+    "id": "m_042",
+    "difficulty": "medium",
+    "question": "Ordinary inmate max visitors is:",
+    "options": [
+      "2 visitors",
+      "3 visitors",
+      "5 visitors",
+      "10 visitors"
+    ],
+    "answer": 2,
+    "explanation": "Ordinary inmate: max 5 visitors."
+  },
+  {
+    "id": "h_031",
+    "difficulty": "hard",
+    "question": "RA 10592 amends articles of RPC covering:",
+    "options": [
+      "CPI, STAL, GCTA, TASTM",
+      "Parole, Probation",
+      "Death penalty",
+      "Bail"
+    ],
+    "answer": 0,
+    "explanation": "RA 10592: CPI, STAL, GCTA, TASTM."
+  },
+  {
+    "id": "e_067",
+    "difficulty": "easy",
+    "question": "CPI (Credit for Preventive Imprisonment) applies to:",
+    "options": [
+      "Convicted prisoners",
+      "Detainees only",
+      "Parolees",
+      "Probationers"
+    ],
+    "answer": 1,
+    "explanation": "CPI applicable only for detainees."
+  },
+  {
+    "id": "m_043",
+    "difficulty": "medium",
+    "question": "If detainee agrees to abide by disciplinary rules, credit is:",
+    "options": [
+      "4/5 of time",
+      "Full time",
+      "1/2 of time",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "Agree = full-time credit (detainee's manifestation)."
+  },
+  {
+    "id": "m_044",
+    "difficulty": "medium",
+    "question": "If detainee does not agree, credit is:",
+    "options": [
+      "Full time",
+      "4/5 of time",
+      "1/2 of time",
+      "1/5 of time"
+    ],
+    "answer": 1,
+    "explanation": "Did not agree = 4/5 credit (waiver)."
+  },
+  {
+    "id": "m_045",
+    "difficulty": "medium",
+    "question": "STAL deduction if evaded service but gave himself up:",
+    "options": [
+      "1/5",
+      "2/5",
+      "3/5",
+      "4/5"
+    ],
+    "answer": 0,
+    "explanation": "STAL: 1/5 if evaded and gave himself up; 2/5 if stayed."
+  },
+  {
+    "id": "m_046",
+    "difficulty": "medium",
+    "question": "STAL deduction if prisoner chose to stay:",
+    "options": [
+      "1/5",
+      "2/5",
+      "3/5",
+      "4/5"
+    ],
+    "answer": 1,
+    "explanation": "STAL: 2/5 if chose to stay."
+  },
+  {
+    "id": "m_047",
+    "difficulty": "medium",
+    "question": "GCTA: 1-2 years good behavior = deduction of:",
+    "options": [
+      "15 days/month",
+      "20 days/month",
+      "23 days/month",
+      "25 days/month"
+    ],
+    "answer": 1,
+    "explanation": "GCTA: 1-2 years = 20 days/month; 3-5 = 23; 6-10 = 25; 11+ = 30."
+  },
+  {
+    "id": "m_048",
+    "difficulty": "medium",
+    "question": "GCTA: 11 years and above good behavior = deduction of:",
+    "options": [
+      "20 days/month",
+      "23 days/month",
+      "25 days/month",
+      "30 days/month"
+    ],
+    "answer": 3,
+    "explanation": "11 years and above = 30 days/month."
+  },
+  {
+    "id": "m_049",
+    "difficulty": "medium",
+    "question": "TASTM (studying, teaching, mentoring) allowance is:",
+    "options": [
+      "5 days/month",
+      "10 days/month",
+      "15 days/month",
+      "20 days/month"
+    ],
+    "answer": 2,
+    "explanation": "15 days/month for TASTM."
+  },
+  {
+    "id": "e_068",
+    "difficulty": "easy",
+    "question": "Time allowances can be granted by:",
+    "options": [
+      "President only",
+      "Director BUCOR, Chief BJMP, Warden of provincial/district/municipal/city jail",
+      "Court only",
+      "Parole board only"
+    ],
+    "answer": 1,
+    "explanation": "Director BUCOR, Chief BJMP, or Warden of provincial/district/municipal/city jail."
+  },
+  {
+    "id": "e_069",
+    "difficulty": "easy",
+    "question": "GCTA disqualifications include:",
+    "options": [
+      "First-time offenders",
+      "Recidivists, habitual delinquents, escapees, heinous crime convicts, national security/public order convicts",
+      "Minors",
+      "Foreigners"
+    ],
+    "answer": 1,
+    "explanation": "GCTA disqualified for recidivists, habitual delinquents, escapees, heinous crimes, national security/public order crimes."
+  },
+  {
+    "id": "e_070",
+    "difficulty": "easy",
+    "question": "Guinto v. DOJ ruled that:",
+    "options": [
+      "DOJ exceeded authority; all PDL eligible for GCTA including heinous crimes",
+      "Heinous crimes excluded from GCTA",
+      "GCTA abolished",
+      "Only minors eligible"
+    ],
+    "answer": 0,
+    "explanation": "Guinto v. DOJ: DOJ exceeded authority; all PDL eligible for GCTA including heinous crimes."
+  },
+  {
+    "id": "h_032",
+    "difficulty": "hard",
+    "question": "Upon admission in the Directorate for Reception and Diagnostics (BUCOR), an inmate must be placed in quarantine for at least:",
+    "options": [
+      "3 days",
+      "5 days",
+      "10 days",
+      "15 days"
+    ],
+    "answer": 1,
+    "explanation": "Quarantine is at least five (5) days, during which the inmate is given a physical examination and oriented on prison rules."
+  },
+  {
+    "id": "h_033",
+    "difficulty": "hard",
+    "question": "After the BUCOR quarantine period, the inmate stays in the Directorate for Reception and Diagnostics for a period not exceeding:",
+    "options": [
+      "30 days",
+      "45 days",
+      "55 days",
+      "60 days"
+    ],
+    "answer": 2,
+    "explanation": "Not exceeding fifty-five (55) days, for psychiatric, psychological, sociological, vocational, educational and religious examinations."
+  },
+  {
+    "id": "m_050",
+    "difficulty": "medium",
+    "question": "The Medium Security Camp of the New Bilibid Prison is:",
+    "options": [
+      "Camp Sampaguita",
+      "Camp Bukang Liwayway",
+      "Camp Crame",
+      "Camp Langka"
+    ],
+    "answer": 0,
+    "explanation": "Medium Security = Camp Sampaguita; Minimum Security = Camp Bukang Liwayway."
+  },
+  {
+    "id": "m_051",
+    "difficulty": "medium",
+    "question": "The Minimum Security Camp of the New Bilibid Prison is:",
+    "options": [
+      "Camp Sampaguita",
+      "Camp Bukang Liwayway",
+      "Camp Bagong Diwa",
+      "Camp Aguinaldo"
+    ],
+    "answer": 1,
+    "explanation": "Minimum Security Camp = Camp Bukang Liwayway."
+  },
+  {
+    "id": "e_071",
+    "difficulty": "easy",
+    "question": "A SuperMax camp in the BUCOR operating prisons and penal farms is the:",
+    "options": [
+      "Reception camp",
+      "Heinous Crimes Facility",
+      "Agricultural camp",
+      "Colonist settlement"
+    ],
+    "answer": 1,
+    "explanation": "An OPPF has at least five camp types: SuperMax (Heinous Crimes Facility), Maximum, Medium, Minimum and RDC."
+  },
+  {
+    "id": "m_052",
+    "difficulty": "medium",
+    "question": "Type A dormitory (BUCOR) has a capacity of:",
+    "options": [
+      "1 to 100 inmates",
+      "101 to 500 inmates",
+      "Above 500 inmates",
+      "Above 1,000 inmates"
+    ],
+    "answer": 2,
+    "explanation": "Type A = above 500 inmates with a lot area of more than 1.5 hectares."
+  },
+  {
+    "id": "m_053",
+    "difficulty": "medium",
+    "question": "Type C dormitory (BUCOR) has a capacity of:",
+    "options": [
+      "1 to 100 inmates, 3,000 sq. m.",
+      "101 to 500 inmates, 1.5 ha.",
+      "Above 500 inmates, 1.5 ha.",
+      "Above 1,000 inmates"
+    ],
+    "answer": 0,
+    "explanation": "Type C = 1 to 100 inmates with a lot area of 3,000 square meters."
+  },
+  {
+    "id": "m_054",
+    "difficulty": "medium",
+    "question": "The committee created under RA 10592 to screen and evaluate PDL entitlement to GCTA, TASTM and STAL is the:",
+    "options": [
+      "MSEC",
+      "BPP",
+      "PPA",
+      "Classification Board"
+    ],
+    "answer": 0,
+    "explanation": "MSEC = Management, Screening and Evaluation Committee; it recommends to the Director General, with at least five members including a Probation and Parole Officer."
+  },
+  {
+    "id": "m_055",
+    "difficulty": "medium",
+    "question": "During a riot, the 2nd Group is equipped with tear gas guns and grenades, which is:",
+    "options": [
+      "No force",
+      "Non-deadly force",
+      "Deadly force",
+      "Deadly force only when aimed at the head"
+    ],
+    "answer": 1,
+    "explanation": "1st Group (shields, batons) = no force; 2nd Group (tear gas) = non-deadly force; 3rd Group (firearms) = deadly force."
+  },
+  {
+    "id": "e_072",
+    "difficulty": "easy",
+    "question": "In escorting a LONE PDL who is under restraint, the corrections officer shall keep a distance of:",
+    "options": [
+      "Arm's length",
+      "Five paces",
+      "Ten paces",
+      "Fifteen paces"
+    ],
+    "answer": 0,
+    "explanation": "Lone PDL: arm's length distance. A group of PDL: not less than ten (10) paces."
+  },
+  {
+    "id": "e_073",
+    "difficulty": "easy",
+    "question": "In escorting a GROUP of PDL, the corrections officer shall keep a distance of not less than:",
+    "options": [
+      "Arm's length",
+      "Three paces",
+      "Five paces",
+      "Ten paces"
+    ],
+    "answer": 3,
+    "explanation": "Group of PDL: not less than ten (10) paces from his/her charge."
+  },
+  {
+    "id": "e_074",
+    "difficulty": "easy",
+    "question": "A nationwide alert status in BUCOR is declared by the:",
+    "options": [
+      "Superintendent",
+      "Directorate for Security Operations (DSO)",
+      "Camp Commander",
+      "President"
+    ],
+    "answer": 1,
+    "explanation": "National scope = Directorate for Security Operations (DSO); local scope = Superintendent."
+  },
+  {
+    "id": "e_075",
+    "difficulty": "easy",
+    "question": "If the Superintendent is taken hostage during an escape, command is assumed by the:",
+    "options": [
+      "Most senior guard",
+      "Assistant Superintendent",
+      "Camp Commander",
+      "Desk Officer"
+    ],
+    "answer": 1,
+    "explanation": "If the Superintendent is held hostage, the Assistant Superintendent assumes command."
+  },
+  {
+    "id": "m_056",
+    "difficulty": "medium",
+    "question": "An inmate may claim under the Victim Compensation Program within:",
+    "options": [
+      "30 days after release",
+      "3 months after release",
+      "6 months after release",
+      "1 year after release"
+    ],
+    "answer": 2,
+    "explanation": "A claim may be filed within six (6) months after release, not exceeding P1,000.00 per month."
+  },
+  {
+    "id": "m_057",
+    "difficulty": "medium",
+    "question": "Medium security inmates in BUCOR are those whose sentence of imprisonment is:",
+    "options": [
+      "Twenty (20) years and below",
+      "Above twenty (20) years",
+      "Life imprisonment only",
+      "Six (6) years and below"
+    ],
+    "answer": 0,
+    "explanation": "Medium security: sentence of twenty (20) years and below; maximum security: minimum sentence above twenty (20) years or capital offenses."
+  },
+  {
+    "id": "m_058",
+    "difficulty": "medium",
+    "question": "Minimum security classification includes inmates who are:",
+    "options": [
+      "Sixty-five (65) years old and above",
+      "Below eighteen (18) years old",
+      "Recidivists and escapees",
+      "Sentenced to capital offenses"
+    ],
+    "answer": 0,
+    "explanation": "Minimum security includes those 65 and above, those who served 1/2 of minimum or 1/3 of maximum sentence, and those with six months left to serve."
+  }
+]
