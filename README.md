@@ -9,23 +9,51 @@ A single-screen study quiz for Philippine **Criminal Justice / Correctional Admi
 
 Reviewing a 90,000-character notes dump is passive. This turns it into an active recall loop with a difficulty ramp: you earn your way into harder questions by answering easier ones correctly, and you lose the right to medium questions if you keep missing them.
 
+The point is not to grind through a fixed list. It is to keep you on the edge of what you know — easy questions to build momentum, medium questions as the reward, and a single hard question as the boss you occasionally get to face.
+
+## How it works (gameplay)
+
 Three difficulty buckets are each shuffled into a **bag**. Questions are drawn with `.pop()`, and a bag only reshuffles once it is empty — so every question in a tier is seen before any of them repeats.
 
-| Tier | How you get there | What happens on a correct answer | What happens on a miss |
+You start in the **easy** rotation. Every answer moves you somewhere:
+
+| Tier | How you get there | Correct answer | Miss or skip |
 | --- | --- | --- | --- |
 | **Easy** | Default rotation | Streak +1. Three in a row queues one **medium** question. | Streak resets to 0, and the redemption streak resets too. |
-| **Medium** | Earned with 3 easy corrects | Charged +1 (`hardCharge`). The **second** medium correct queues one **hard** question; the first returns you to easy with the charge kept. | Strikes +1 and the hard charge clears. Two strikes **lock** medium. |
+| **Medium** | Earned with 3 easy corrects | Hard charge +1. The **second** medium correct queues one **hard** question; the first returns you to easy with the charge kept. | Strikes +1 and the hard charge clears. Two strikes **lock** medium. |
 | **Hard** | Earned with 2 medium corrects | Single question, sudden death. Correct or not, you go back to easy with the charge cleared. | Same — back to easy, charge cleared. |
 
-While medium is **locked**, easy questions replace the streak with a redemption counter: four correct answers in a row reopen medium and wipe the strikes. A single miss resets redemption to zero.
+A single run looks like this:
 
-The HUD always shows the current tier badge (`EASY` / `MEDIUM` / `HARD` / `LOCKED`), the 3 easy-streak dots (or 4 redemption dots while locked), the 2 hard-charge dots, and a correct-answer count.
+```
+easy ✓ ✓ ✓        -> one medium question
+medium ✓          -> back to easy, hard charge 1/2
+easy ✓ ✓ ✓        -> one medium question
+medium ✓          -> HARD boss question 🎀
+hard ✓ or ✗       -> back to easy, charge cleared
+```
 
-Interaction details:
+If medium is **locked**, the streak dots become a redemption counter: four correct easy answers in a row reopen medium and wipe the strikes. One miss anywhere in that run resets redemption to zero, so the ramp has to be earned again.
 
-- Correct answers advance instantly with tier-appropriate confetti (pink petals for easy, hot pink for medium, 🩷🎀✨ for hard).
-- A miss or a **Skip question →** reveals the correct option in place for 650ms, then advances.
-- Keys `1`–`4` answer the current question; the option buttons also work with mouse, touch and keyboard.
+The HUD tells you where you are at a glance:
+
+| Element | Meaning |
+| --- | --- |
+| **Tier badge** | The tier of the question on screen: EASY, MEDIUM, HARD, or LOCKED when medium has been revoked. |
+| **Easy streak (3 dots)** | Progress toward your next medium question. While locked, this becomes 4 redemption dots. |
+| **Hard charge (2 dots)** | Each medium correct fills one. Filling both unleashes the hard question. |
+| **Correct** | How many questions you have answered correctly this session. |
+
+## Usage
+
+1. Open https://shubhamj010.github.io/ca-exam-prep/ — question one is already on screen. There is no start screen, menu or login.
+2. Read the question and pick one of the four options: click or tap it, or press `1`, `2`, `3`, `4` on a keyboard.
+3. A correct answer fires tier-appropriate confetti and loads the next question immediately. A wrong answer highlights the correct option in pink and rose for 650ms, then continues.
+4. Use **Skip question →** if you do not know it. Skipping counts exactly like a miss: it breaks your streak and adds a strike when you are in a medium question.
+5. Watch the badge and dots to see what is coming — three filled easy dots mean a medium question is next, and the second filled hard-charge dot means the hard question is armed.
+6. Refresh the page to reshuffle every bucket and start over. Progress is intentionally not saved: there is no account, storage or backend.
+
+The layout is a single viewport on purpose — question, four options, skip link, no scrolling required on a laptop or phone.
 
 ## Stack
 
